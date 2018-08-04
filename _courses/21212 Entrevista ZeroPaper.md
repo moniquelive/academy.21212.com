@@ -1,5 +1,4 @@
 ---
-layout: course
 title: 21212 Entrevista ZeroPaper
 thumb: entrevista_zp.png
 ---

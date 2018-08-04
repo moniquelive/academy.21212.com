@@ -11,9 +11,18 @@ layout: default
     </div>
     {% endif %}
 
+    {% if content %}
     <br>
-
     <div>
         {{ content }}
     </div>
+    {% endif %}
+
+    {% for c in page.classes %}
+    <h3 style="text-align: center;">{{c.title}}</h3>
+    <h4 style="text-align: center;">{{c.description}}</h4>
+    {% vimeo {{ c.vimeo }} %}
+    <br>
+    <br>
+    {% endfor %}
 </article>

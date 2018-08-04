@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="/css/courses.css">
+
+<ul class="list">
+{% for course in site.courses %}
+  <li>
+    <a href="{{ course.url }}">
+      {% if course.thumb %}
+      <div class="li-img">
+        <img src="/assets/images/{{ course.thumb }}">
+      </div>
+      {% endif %}
+      <div class="li-text">
+        <h4 class="li-head">{{ course.title }}</h4>
+      </div>
+      <p class="li-sub">
+        {{ course.description }}
+      </p>
+    </a>
+  </li>
+{% endfor %}
+</ul>

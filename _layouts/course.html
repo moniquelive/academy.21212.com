@@ -21,7 +21,12 @@ layout: default
     {% for c in page.classes %}
     <h3 style="text-align: center;">{{c.title}}</h3>
     <h4 style="text-align: center;">{{c.description}}</h4>
+    {% if c.vimeo %}
     {% vimeo {{ c.vimeo }} %}
+    {% endif%}
+    {% if c.youtube %}
+    {% youtube {{ c.youtube }} %}
+    {% endif%}
     <br>
     <br>
     {% endfor %}

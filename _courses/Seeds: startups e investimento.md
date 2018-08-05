@@ -1,5 +1,6 @@
 ---
 title: "Seeds: startups e investimento"
+author: 21212 Academy
 thumb: concept_seeds-e1421788139404.jpg
 classes:
     - title: Episódio 1

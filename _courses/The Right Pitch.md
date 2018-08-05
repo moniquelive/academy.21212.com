@@ -1,5 +1,6 @@
 ---
 title: The Right Pitch
+author: 21212 Academy
 thumb: template_teaser_curso_trp-1024x576.png
 classes:
     - title: Episódio 1

@@ -1,5 +1,6 @@
 ---
 title: 21212 Entrevista ZeroPaper
+author: 21212 Academy
 thumb: entrevista_zp.png
 classes:
     - title: "Spoiler: a Vó do Arley é muito fofa! ;)"

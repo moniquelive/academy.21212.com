@@ -1,5 +1,6 @@
 ---
 title: Conselhos Jurídicos para Startups - Parte 3
+author: Natalie Witte
 thumb: artes_modelos-9.png
 classes:
     - title: Aula 1

@@ -1,5 +1,6 @@
 ---
 title: Propriedade Intelectual
+author: jcregoto
 thumb: artes_modelos21.png
 classes:
     - title: Aula 1

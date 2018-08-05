@@ -1,5 +1,6 @@
 ---
 title: Mentores
+author: 21212 Academy
 thumb: template_trp_frame-1024x576.png
 classes:
     - title: Episódio 1

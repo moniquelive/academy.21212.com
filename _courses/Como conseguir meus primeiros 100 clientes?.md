@@ -1,5 +1,6 @@
 ---
 title: Como Conseguir meus primeiros 100 clientes?
+author: 21212 Academy
 thumb: picture-15.png
 classes:
     - title: Aula 1

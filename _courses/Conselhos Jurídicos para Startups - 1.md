@@ -1,5 +1,6 @@
 ---
 title: Conselhos Jurídicos para Startups - Parte 1
+author: Natalie Witte
 thumb: 9726952294_68fe16910b_k-e1421788480208.jpg
 classes:
     - title: Aula 1

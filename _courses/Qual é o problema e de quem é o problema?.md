@@ -1,5 +1,6 @@
 ---
 title: Qual é o problema e de quem é o problema?
+author: 21212 Academy
 thumb: 7365351290_af744cab11_o.jpg
 classes:
     - title: Aula 1

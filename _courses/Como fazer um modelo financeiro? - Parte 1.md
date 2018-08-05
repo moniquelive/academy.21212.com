@@ -1,5 +1,6 @@
 ---
 title: Como fazer um modelo financeiro? Parte 1
+author: Addison Sears-Collins
 thumb: addison-pt1.png
 classes:
     - title: Aula 1

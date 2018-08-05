@@ -1,5 +1,6 @@
 ---
 title: Como Conseguir meu primeiro investimento?
+author: Antonio Amaral
 thumb: curso_news.png
 classes:
     - title: Aula 1

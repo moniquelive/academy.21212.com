@@ -1,5 +1,6 @@
 ---
 title: Finanças para Startups
+author: Addison Sears-Collins
 thumb: 5913014568_a1f3148bf7_b.jpg
 classes:
     - title: Aula 1

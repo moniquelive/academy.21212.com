@@ -1,6 +1,7 @@
 ---
 title: Como elaborar um plano de 100 dias para sua startup
-thumb: 
+author: Frederico Lacerda
+thumb: Academy_Blue_Background.png
 classes:
     - title: Aula 1
       description: Conceitos

@@ -1,5 +1,6 @@
 ---
 title: Como colocar minha idéia no papel?
+author: Frederico Lacerda
 thumb: 8417742500_67019457e0_o.jpg
 classes:
     - title: Aula 1

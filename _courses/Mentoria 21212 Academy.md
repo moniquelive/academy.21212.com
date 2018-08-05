@@ -1,5 +1,6 @@
 ---
 title: Mentoria 21212 Academy
+author: 21212 Academy
 thumb: arte_mentoria.png
 classes:
     - title: Marcelo Sales

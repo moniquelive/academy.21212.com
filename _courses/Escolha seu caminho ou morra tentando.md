@@ -1,6 +1,7 @@
 ---
 title: Escolha seu caminho ou morra tentando
-thumb: 
+author: Rafael Duton
+thumb: Academy_Blue_Background.png
 classes:
     - title: Aula 1
       description: 

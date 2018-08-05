@@ -1,5 +1,6 @@
 ---
 title: Como Construir a Primeira Versão do Meu Produto?
+author: Benjamin White
 thumb: 3883611573_3f2b84a4b5_b.jpg
 classes:
     - title: Aula 1

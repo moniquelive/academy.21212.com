@@ -1,6 +1,10 @@
 ---
 title: 21212 Entrevista ZeroPaper
 thumb: entrevista_zp.png
+classes:
+    - title: "Spoiler: a Vó do Arley é muito fofa! ;)"
+      description: Entrevista ZeropPaper
+      vimeo: 132406696
 ---
 &nbsp;
 <h4>Mas como escrever uma história de sucesso? Na 21212 reforçamos sempre com os empreendedores que sucesso só vem através de 3 pilares: foco, disciplina e execução.</h4>
@@ -10,9 +14,4 @@ A ZeroPaper foi uma das empresas aceleradas pela 21212, no nosso 2º programa, e
 
 Mas como escrever uma história de sucesso? Na 21212 reforçamos sempre que o sucesso só vem através de 3 pilares: foco, disciplina e execução. E a história da <a href="https://zeropaper.com.br/">ZeroPaper</a>, e dos seus 4 fundadores, é um exemplo de tudo isso na prática. Ao assistir a esta entrevista, gravada há 2 meses na nova sede da <a href="https://zeropaper.com.br/">QuickBooks Zeropaper,</a> você vai conhecer um pouco mais sobre quem está por trás de um dos mais recentes casos de sucesso do mercado digital brasileiro.
 Ao longo da entrevista, os fundadores da ZeroPaper contam como foi largar seus empregos para começar a empresa, como foi o processo de aceleração (da validação da ideia ao desafio de crescer e levantar dinheiro), qual foi o papel da família ao longo de todo esse processo e, por fim, como se deu a decisão de venda para a Intuit. Esperamos que os próximos 50 minutos sejam um investimento na sua jornada de empreendedor, além de uma injeção de ânimo para chegar muito mais longe!
-<h4 style="text-align: center;">Spoiler: a Vó do Arley é muito fofa! ;)</h4>
-&nbsp;
-<div style="text-align: center;">{% vimeo 132406696 %}</div>
-&nbsp;
-
 &nbsp;

@@ -7,7 +7,7 @@ layout: default
 <ul class="list">
 {% for course in site.courses %}
   <li>
-    <a href="{{ course.url }}">
+    <a href="{{ course.url | prepend: site.baseurl }}">
       {% if course.thumb %}
       <div class="li-img">
         <img src="/assets/images/{{ course.thumb }}">

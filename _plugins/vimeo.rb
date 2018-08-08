@@ -35,7 +35,7 @@ module Jekyll
 
     def render(context)
       id = render_variable(context) || @id
-      %(<iframe width="#{@@width}" height="#{@@height}" src="http://player.vimeo.com/video/#{id}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>)
+      %(<iframe width="#{@@width}" height="#{@@height}" src="//player.vimeo.com/video/#{id}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>)
     end
   end
 end

@@ -18,7 +18,7 @@ title: 21212 Academy
 description: >-
   21212 Academy
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://academy.21212.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://academy.21212.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 21212com
 github_username:  "21212"
 google_analytics: "UA-23940572-11"
@@ -45,7 +45,7 @@ plugins:
 collections:
   courses:
     output: true
-    permalink: /course/:name
+    permalink: /:collection/:name:output_ext
 
 defaults:
   - scope:

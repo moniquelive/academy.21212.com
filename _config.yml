@@ -23,6 +23,9 @@ twitter_username: 21212com
 github_username:  "21212"
 google_analytics: "UA-23940572-11"
 
+header_pages:
+  - blog.html
+
 # Build settings
 markdown: kramdown
 theme: minima

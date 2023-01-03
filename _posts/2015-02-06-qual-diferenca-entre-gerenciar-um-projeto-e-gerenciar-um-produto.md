@@ -24,7 +24,7 @@ Ao entrar para o time da 21212 e ter como missão ajudar as empresas aceleradas
 
 &nbsp;
 
-O que estava errado era que o nosso time, o da aceleradora, estava mais preocupado com o prazo do que com o processo. (se você ainda não leu o post do Cyber, leia [aqui](/blog/um-jeito-quase-infalivel-de-se-alcancar-qualquer-meta/)). E quando digo o processo, falo do processo de criação e desenvolvimento dos produtos. Quando o nosso time entendeu a diferença entre criar um produto e gerenciar um projeto, passamos a visualizar os resultados que até então não conseguíamos reconhecer, porque o nosso foco estava errado. Ao invés de focar no gerenciamento de projetos, passamos a focar em gerenciamento de produtos.
+O que estava errado era que o nosso time, o da aceleradora, estava mais preocupado com o prazo do que com o processo. (se você ainda não leu o post da Cyber, leia [aqui](/blog/um-jeito-quase-infalivel-de-se-alcancar-qualquer-meta/)). E quando digo o processo, falo do processo de criação e desenvolvimento dos produtos. Quando o nosso time entendeu a diferença entre criar um produto e gerenciar um projeto, passamos a visualizar os resultados que até então não conseguíamos reconhecer, porque o nosso foco estava errado. Ao invés de focar no gerenciamento de projetos, passamos a focar em gerenciamento de produtos.
 
 &nbsp;
 

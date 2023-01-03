@@ -2,7 +2,7 @@
 id: 5994
 title: Configurando vários domínios no nginx sem repetição
 date: 2015-05-05T16:00:54+00:00
-author: Leonardo Cyber
+author: Monique Cyber
 layout: post
 guid: /?p=5994
 permalink: /blog/configurando-nginx-sem-repeticao/

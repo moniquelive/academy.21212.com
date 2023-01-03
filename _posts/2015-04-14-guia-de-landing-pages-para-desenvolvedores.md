@@ -2,7 +2,7 @@
 id: 5840
 title: Guia de Landing Pages para Desenvolvedores
 date: 2015-04-14T16:15:33+00:00
-author: Leonardo Cyber
+author: Monique Cyber
 layout: post
 guid: /?p=5840
 permalink: /blog/guia-de-landing-pages-para-desenvolvedores/

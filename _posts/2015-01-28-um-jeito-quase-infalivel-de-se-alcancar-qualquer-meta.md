@@ -2,7 +2,7 @@
 id: 4728
 title: Um jeito quase infalível de se alcançar qualquer meta
 date: 2015-01-28T10:52:28+00:00
-author: Leonardo Cyber
+author: Monique Cyber
 layout: post
 guid: /?p=4728
 permalink: /blog/um-jeito-quase-infalivel-de-se-alcancar-qualquer-meta/
@@ -22,9 +22,9 @@ categories:
 ---
 &nbsp;
 
-Olá, eu sou o Cyber (às vezes conhecido como Leonardo ;)) e sou responsável pela área de tecnologia da 21212.
+Olá, eu sou a Cyber (às vezes conhecida como Monique ;)) e sou responsável pela área de tecnologia da 21212.
 
-Esta é minha primeira contribuição para o blog da 21212 Academy e, para começar, resolvi traduzir este texto que achei bastante interessante e que tem tudo a ver com o começo do ano: uma forma quase infalível de se atingir suas metas. Bem pretensioso, né? Vamos lá:
+Esta é minha primeira contribuição para o blog da 21212 Academy e, para começar, resolvi traduzir este texto que achei bastante interessante e que tem tudo a ver com o começo do ano: uma forma quase infalível de se atingir suas metas. Bem pretensiosa, né? Vamos lá:
 
 Original: <a href="http://www.inc.com/jeff-haden/an-nearly-foolproof-way-to-achieve-every-goal-you-set-wed.html" target="_blank" rel="nofollow">http://www.inc.com/jeff-haden/an-nearly-foolproof-way-to-achieve-every-goal-you-set-wed.html</a>
 

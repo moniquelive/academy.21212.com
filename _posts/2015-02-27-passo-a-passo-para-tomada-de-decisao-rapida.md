@@ -2,7 +2,7 @@
 id: 5179
 title: Passo a passo para tomada de decisão rápida
 date: 2015-02-27T16:08:31+00:00
-author: Leonardo Cyber
+author: Monique Cyber
 layout: post
 guid: /?p=5179
 permalink: /blog/passo-a-passo-para-tomada-de-decisao-rapida/

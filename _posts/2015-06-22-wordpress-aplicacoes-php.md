@@ -2,7 +2,7 @@
 id: 6495
 title: Medindo desempenho do WordPress e outras aplicações PHP
 date: 2015-06-22T16:10:15+00:00
-author: Leonardo Cyber
+author: Monique Cyber
 layout: post
 guid: /?p=6495
 permalink: /blog/wordpress-aplicacoes-php/

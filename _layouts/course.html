@@ -3,32 +3,32 @@ layout: default
 ---
 
 <article class="course">
-    <h1 style="text-align: center">{{ page.title }}</h1>
-    <h3 style="text-align: center"><i>por: {{page.author}}</i></h3>
+  <h1 style="text-align: center">{{ page.title }}</h1>
+  <h3 style="text-align: center"><i>por: {{page.author}}</i></h3>
 
-    {% if page.thumb %}
-    <div style="text-align: center;">
-        <img src="/assets/images/{{ page.thumb }}">
-    </div>
-    {% endif %}
+  {% if page.thumb %}
+  <div style="text-align: center;">
+    <img src="/assets/images/{{ page.thumb }}">
+  </div>
+  {% endif %}
 
-    {% if content %}
-    <br>
-    <div>
-        {{ content }}
-    </div>
-    {% endif %}
+  {% if content %}
+  <br>
+  <div>
+    {{ content }}
+  </div>
+  {% endif %}
 
-    {% for c in page.classes %}
-    <h3 style="text-align: center;">{{c.title}}</h3>
-    <h4 style="text-align: center;">{{c.description}}</h4>
-    {% if c.vimeo %}
-    {% vimeo {{ c.vimeo }} %}
-    {% endif%}
-    {% if c.youtube %}
-    {% youtube {{ c.youtube }} %}
-    {% endif%}
-    <br>
-    <br>
-    {% endfor %}
+  {% for c in page.classes %}
+  <h3 style="text-align: center;">{{c.title}}</h3>
+  <h4 style="text-align: center;">{{c.description}}</h4>
+  {% if c.vimeo %}
+  {% include vimeoPlayer.html id=c.vimeo %}
+  {% endif %}
+  {% if c.youtube %}
+  {% youtube {{ c.youtube }} %}
+  {% endif %}
+  <br>
+  <br>
+  {% endfor %}
 </article>

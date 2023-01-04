@@ -41,8 +41,6 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    jekyll-youtube (1.0.0)
-      jekyll
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -81,7 +79,6 @@ DEPENDENCIES
   jekyll
   jekyll-feed (~> 0.6)
   jekyll-sitemap
-  jekyll-youtube
   minima (~> 2.0)
   tzinfo-data
 

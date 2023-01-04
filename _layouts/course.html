@@ -26,7 +26,7 @@ layout: default
   {% include vimeoPlayer.html id=c.vimeo %}
   {% endif %}
   {% if c.youtube %}
-  {% youtube {{ c.youtube }} %}
+  {% include youtubePlayer.html id=c.youtube %}
   {% endif %}
   <br>
   <br>
